@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Shreyas521032/Shreyas521032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm Shreyas Kasture, a passionate Python developer with a knack for turning ideas into code. My journey in the world of technology is driven by curiosity, continuous learning, and the love for building impactful software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Languages:** Python, JavaScript
+- **Frameworks:** Flask, Django
+- **Databases:** MySQL, MongoDB
+- **Tools & Technologies:** Git, Docker
+- **Enthusiast:** Open Source, DevOps, Machine Learning
+
+## 🌱 Currently Learning
+Exploring new horizons in machine learning and diving deeper into cloud technologies, particularly AWS.
+
+## 🤝 Let's Connect
+- LinkedIn: [Shreyas Kasture](https://www.linkedin.com/in/shreyas-kasture-4a458728a/)
+
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or a friendly chat. Happy coding! 🚀
+
