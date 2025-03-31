@@ -18,8 +18,3 @@ I'm Shreyas Kasture, a passionate Python developer with a knack for turning idea
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🤝 Let's Connect
-- LinkedIn: [Shreyas Kasture](https://www.linkedin.com/in/shreyas-kasture-4a458728a/)
-
-- 
