@@ -52,7 +52,7 @@ I'm Shreyas Kasture, a passionate Python developer with a knack for turning idea
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas521032&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-trophies.vercel.app/?username=lucthienphong1120&theme=flat)
+![Trophies](https://github-trophies.vercel.app/?username=Shreyas521032&theme=flat)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
